@@ -1,5 +1,9 @@
 # London-Residential-Market-Report-2026
 
+I developed the London Residential Market Report 2026 to analyze the structural shifts in the UK's capital following the 2022–2025 market correction.
+
+By synthesizing 30 years of HM Land Registry Price Paid Data (1995–2025), this project identifies why the traditional "housing ladder" has stalled and maps the emerging "Liquidity Traps" in prime boroughs. The report provides a data-driven outlook for 2026, focusing on interest rate impacts and tenure resilience.
+
 London Residential Market Report 2026.pdf contains the full presentation report. 
 
 The data source is not uploaded in this respositary. It is available from the link below.
